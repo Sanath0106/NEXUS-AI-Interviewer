@@ -21,9 +21,12 @@
 <code>
 ❯ AI Interview: Simulates mock interviews tailored to various job roles and provides detailed feedback, including improvement suggestions.
 
+
 ❯ Resume Analyzer: Evaluates resumes for structure, clarity, and relevance, offering actionable tips to enhance their appeal.
 
+
 ❯ Code Debugger: Generates buggy code based on selected difficulty and topic, provides hints, and validates user corrections with real-time feedback.
+
 
 ❯ Quiz Generator: Creates customized quizzes based on user inputs, supporting a variety of topics and difficulty levels.
 </code>
